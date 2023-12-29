@@ -1,0 +1,15 @@
+body:
+  - type: dropdown
+    attributes:
+      name: author
+      label: "By:"
+      defaultValue: "Luci"
+      options:
+        - "Lua"
+        - "81"
+  - type: checkbox
+    attributes:
+      name: copy
+      label: "Copy to my clipboard:"
+      defaultValue: "true"
+      description: COPYYYY!!!

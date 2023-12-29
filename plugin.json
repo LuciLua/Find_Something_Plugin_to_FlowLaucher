@@ -1,0 +1,12 @@
+{
+    "ID": "find_something_by_type",
+    "ActionKeyword": "fd",
+    "Name": "Find something by type",
+    "Description": "Find something by type plugin",
+    "Author": "Luci Lua",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/lucilua",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
